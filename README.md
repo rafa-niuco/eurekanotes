@@ -1,6 +1,21 @@
 # Projeto de Transcrição de Áudio com ChatGPT
 
-Este projeto permite transcrever arquivos de áudio (MP3, OGG, OPUS) usando a API da AssemblyAI e, opcionalmente, enviar as transcrições para o ChatGPT para formatá-las em bullet points. O script organiza as transcrições em uma pasta específica, mantendo os arquivos de áudio e suas transcrições devidamente ordenados e separados.
+A ideia desse projeto é simplificar a vida de quem tem ideias e fala sozinho sobre elas.
+
+Caso de uso 1: Organizar suas ideias
+- Saia caminhar
+- Tenha uma ideia
+- Mande um audio para você via Whatsaoo
+- Chegue em casa e baixe os audios
+- Jogue na pasta Transcrever e rode o Eureka.py
+- Pronto: todo que falou, será transcrito e sintetizado via chat GPT :D
+
+Caso de uso 2: Construir ideias com amigos
+- Converse com alguém via whatsapp Audio
+- Tenha uma ideias em conjunto
+- Baixe os audios
+- Jogue na pasta Transcrever e rode o Eureka.py
+- Pronto: todo que falou, será transcrito e sintetizado via chat GPT :D
 
 ## Funcionalidades
 
