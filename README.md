@@ -1,4 +1,4 @@
-# Projeto de Transcrição de Áudio com ChatGPT
+# EurekaBot
 
 A ideia desse projeto é simplificar a vida de quem tem ideias e fala sozinho sobre elas.
 
